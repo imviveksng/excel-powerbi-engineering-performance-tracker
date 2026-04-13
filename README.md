@@ -67,7 +67,7 @@ Achievement % = Actual Achieved / Revised Target × 100
 ---
 
 ## 🚀 How to Use
-1. Download `sample_data.xlsx` from `/data`
+1. Download `FY 2025-2026.xlsx` from `/data`
 2. Open `dashboard.pbix` from `/files` in Power BI Desktop
 3. Refresh data source to point to the Excel file
 4. Use slicers to filter by Team Lead or Status
