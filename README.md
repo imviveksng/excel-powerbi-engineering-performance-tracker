@@ -61,8 +61,8 @@ Achievement % = Actual Achieved / Revised Target × 100
 ---
 
 ## 📸 Dashboard Preview
-![Overview](screenshots/dashboard_overview.png)
-![Team Performance](screenshots/team_performance.png)
+![Overview](screenshots/BI Fresh.PNG)
+![Team Performance](screenshots/Excel Jobs Pivot.PNG)
 
 ---
 
